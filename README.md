@@ -6,4 +6,4 @@ in sync their collective state is one of synchrony. In some systems a hybrid sta
 
 In this work a process of creating [Cantor sets](https://en.wikipedia.org/wiki/Cantor_set) was used to derive a coupling scheme - "which oscillator is directly influencing which". In this work chimera states were identified and investigated closely as they also exhibit fractal properties like self-similarity. But also the the nonlocality of the connections which makes embedding the network difficult was discussed.
 
-The simulations were made in python with numpy, scipy and [graph-tool](https://github.com/antmd/graph-tool) for integrating the large numbers of coupled differential equations. All plots and graphics were made procedurally in mathematica.
+The simulations were made in python with numpy, scipy and [graph-tool](https://github.com/antmd/graph-tool) for integrating the large sets of coupled differential equations. All plots and graphics were made procedurally in mathematica.
